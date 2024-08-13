@@ -1,9 +1,5 @@
 package com.ian.messaging_framework;
 
-/**
- *
- * @author Ian Tagano
- */
 
 public class SMSSender implements MessageSender
 {
