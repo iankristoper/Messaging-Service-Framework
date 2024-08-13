@@ -1,9 +1,6 @@
 package com.ian.messaging_framework;
 
-/**
- *
- * @author Ian Tagano
- */
+
 
 public class PushNotifications implements MessageSender
 {
